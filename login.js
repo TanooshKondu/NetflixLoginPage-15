@@ -13,5 +13,4 @@ function function3(){
 //v 
 // on uil biul
 //8 ghiu [;hu  8h;;]
-//h iluu hlihliug
-// gilbluigbg;p7
+//h iluu hlihliu
